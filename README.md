@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/genbyphyton/phone-pc?style=flat-square)
 # **Python Socket phone-to-pc app**
 
 ## ***Main description***
